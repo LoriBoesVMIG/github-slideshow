@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Lori 1
+"These are not the droids you're looking for"
 Use the left arrow to go back!
